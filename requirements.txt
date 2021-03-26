@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pandas
+scikit-learn
+seaborn
+pmdarima
+plotly
+tensorflow
+holidays
