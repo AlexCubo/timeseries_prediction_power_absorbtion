@@ -1,7 +1,7 @@
 
 ## Power Absorbtion Prediction project
 
-This is a time series project in wich I predict the power absorbtion in Italy from June 2018 till March 2020.
+This is a time series project in which I predict the power absorbtion in Italy from June 2018 till March 2020.
 The data for training and testing are taken from a Kaggle dataset called "Western Europe Power Consumption" (dataset [here](https://www.kaggle.com/francoisraucent/western-europe-power-consumption)). 
 The signal is the hourly power absorbtion in Italy from 2015 to 2020. The 2/3 of the signal is used for training and the rest for test:
 
