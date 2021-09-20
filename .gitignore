@@ -6,7 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-<<<<<<< HEAD
 
 #sources
 sources/
@@ -24,7 +23,7 @@ models/
 git_token.txt
 
 # ignore png images
->>>>>>> a4477120b03ac2a497982bebea00ced8876e7214
+
 *.png
 
 # Distribution / packaging
