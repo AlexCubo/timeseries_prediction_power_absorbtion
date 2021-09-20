@@ -14,7 +14,7 @@ sources/
 literature/ 
  
 # images
-images/
+#images/
 
 #models
 models/
