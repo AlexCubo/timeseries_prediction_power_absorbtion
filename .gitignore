@@ -22,7 +22,7 @@ git_token.txt
 
 # ignore png images
 
-*.png
+#*.png
 
 # Distribution / packaging
 .Python
