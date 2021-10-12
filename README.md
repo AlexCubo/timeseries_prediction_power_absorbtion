@@ -33,5 +33,5 @@ CNN is the best method: the most precise with a relativelly low training time. O
 still want to have a decent result, I would suggest Ridge. What do you think about? 
 
 The Jupyter notebook of this project can be found [here](./notebooks/time_series_final_prj.ipynb)  
-You can see the presentation of the present project in the index.html file; download it and open it with your favorite browser.  
+You can see the presentation of the present project in the presentation.html file; download it and open it with your favorite browser.  
 
