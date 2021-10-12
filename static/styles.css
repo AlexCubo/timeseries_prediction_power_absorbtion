@@ -1,0 +1,141 @@
+.smallfont {
+  font-size: 0.4em;
+}
+
+.highlight {
+    color: indianred;
+}
+
+.author{
+	font-size: 1em;
+	color: blue;
+}
+
+/*change the font size of the title on the first slide*/
+.title {
+  font-size: 2em !important; /*important makes this first priority */
+}
+
+.reveal h1 {
+  font-size: 1em;
+}
+
+.results{
+  width: 30cm;
+  height: 10cm;
+  font-size: 0.5em;
+}
+
+.architecture{
+	/*grid-template-columns: auto auto;*/
+	grid-row: 5;
+	grid-gap: 0px;
+	margin: -4%;
+}
+
+.model_names{
+	font-size: 1.2em;
+}
+
+.columns_2{
+	column-count: 2;
+	column-gap: 10px;
+}
+
+
+.rows_2{
+	grid-row:2;
+	grid-gap: 1px;
+	margin-bottom: 1cm;
+}
+
+.rows > p {
+	font-size: 0.1em;
+}
+
+.question{
+	font-size: 1em;
+	color: blue;
+}
+
+.space-between{
+	margin-bottom: 1cm;
+}
+
+.left_align{
+	text-align: left;
+}
+
+.right_align{
+	text-align: right;
+}
+
+.red{
+	color: green;
+}
+
+.table_font{
+	font-size: 0.8em;
+	width: 45cm;
+	height: 45cm;
+}
+
+.columns_new{
+	column-width:550px;
+}
+
+.center_align{
+	text-align: center;
+}
+
+.spanning{
+	column-span: all;
+}
+
+.problem_size{
+	font-size: 1.0em;
+}
+
+
+
+.body {
+	background-image: url("../images/shutterstock_power_tr1.jpg");
+	height: 1000px;
+	margin: -10%;
+	background-position: top;
+	background-size: cover;
+}
+
+.im_back{
+	width: 1700px;
+	height: 1500px;
+	display: block;
+	position: absolute;
+}
+
+.im_back::after{
+	content: "";
+	background: url("../images/shutterstock_power_tr1.jpg");
+	opacity: 0.2;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	z-index: -1;
+	margin: -10%;
+	background-size: cover;
+}
+
+.icons{
+	margin: -12%;
+	text-align: right;
+}
+
+.medium_size{
+	text-size: 0.8em;
+}
+
+.margin_minus{
+	margin: -6%;
+}
